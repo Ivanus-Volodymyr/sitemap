@@ -7,7 +7,9 @@ module.exports = {
         try {
             let arrayIds = [];
             let arrayIds2 = [];
+            let arrayIds3 = [];
 
+            //tests
             let page = 1;
             const {data} = await axios.get(`https://api.skilliant.net/api/tests?pagination[page]=${page}&pagination[pageSize]=100`);
 
@@ -21,6 +23,20 @@ module.exports = {
 
                 }
             }
+            //code-tests
+            let page2 = 1;
+            const response_1 = await axios.get(`https://api.skilliant.net/api/code-tests?pagination[page]=${page2}&pagination[pageSize]=10`);
+
+            if (response_1.data.meta?.pagination?.pageCount) {
+                for (page2; page2 <= response_1.data.meta?.pagination?.pageCount; page2++) {
+                    const axiosResponse = await axios.get(`https://api.skilliant.net/api/code-tests?pagination[page]=${page2}&pagination[pageSize]=100`);
+                    for (const value of axiosResponse.data.data) {
+                        arrayIds3.push(value.id)
+                    }
+                }
+            }
+
+            //tech-name
             const response = await axios.get("https://api.skilliant.net/api/tech-names?pagination[pageSize]=100");
             for (const value of response?.data?.data) {
                 arrayIds2.push(value.id)
@@ -28,6 +44,7 @@ module.exports = {
 
             let htmlMarkup = '';
             let htmlMarkup2 = '';
+            let htmlMarkup3 = '';
 
             let lastmod = new Date(Date.now()).toLocaleDateString('de-DE', {
                 year: 'numeric',
@@ -59,7 +76,20 @@ module.exports = {
                             </url>`;
             });
 
-            let xml = htmlMarkup += htmlMarkup2;
+            await arrayIds3.forEach(id => {
+                let url = `https://skilliant.net/code-test/${id}`;
+                let changefreq = 'daily';
+                let priority = '0.7';
+                htmlMarkup3 += `<url>
+                                <loc>${url}</loc>
+                                <lastmod>${lastmod}</lastmod>
+                                <changefreq>${changefreq}</changefreq>
+                                <priority>${priority}</priority>
+                            </url>`;
+            });
+
+
+            let xml = htmlMarkup += htmlMarkup2 += htmlMarkup3;
 
             let body = `
         <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -72,6 +102,12 @@ module.exports = {
         <priority>1.0</priority>
     </url>\n
 ${xml}  
+    <url>
+        <loc>https://skilliant.net/team-coding/</loc>
+        <lastmod>${lastmod}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>    
     <url>
         <loc>https://skilliant.net/mentors/</loc>
         <lastmod>${lastmod}</lastmod>
@@ -92,6 +128,12 @@ ${xml}
     </url>
     <url>
         <loc>https://skilliant.net/for-users/</loc>
+        <lastmod>${lastmod}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.4</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/learning-plan/</loc>
         <lastmod>${lastmod}</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.4</priority>

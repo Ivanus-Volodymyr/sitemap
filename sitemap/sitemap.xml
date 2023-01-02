@@ -3,884 +3,1053 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://skilliant.net/</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+
     <url>
         <loc>https://skilliant.net/test/1600</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1601</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1602</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1603</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1604</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1605</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1606</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1607</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1608</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1609</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1610</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1611</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1612</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1613</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1614</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1615</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1616</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1617</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1618</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1619</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1620</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1621</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1622</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1623</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1624</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1625</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1626</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1627</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1628</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1629</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1633</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1634</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1635</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1636</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1639</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1640</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1654</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1655</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1657</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1658</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1659</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1660</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1662</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1663</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1664</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1665</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1668</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1669</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1670</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1671</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1687</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1688</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1689</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1690</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1691</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1692</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1693</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1696</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1702</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1703</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1708</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1709</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1710</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1712</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1713</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1714</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1715</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1717</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1718</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1719</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1720</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1721</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1722</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1723</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1724</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1725</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1726</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1727</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1728</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1729</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1730</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1731</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1732</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1733</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1734</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1735</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1736</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1737</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1738</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1739</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1740</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1741</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1742</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1743</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1744</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1745</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1777</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1778</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1779</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1780</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1781</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1782</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1783</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1784</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1785</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1786</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1787</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1788</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1789</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1794</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1795</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1796</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1797</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1798</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1799</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1800</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1801</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1802</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1803</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1804</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1805</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1806</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1807</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1808</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1809</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1810</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1811</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1812</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1813</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1814</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1815</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1816</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1817</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test/1818</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/3</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/4</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/5</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/6</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/7</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/8</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/9</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://skilliant.net/test-list/10</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://skilliant.net/code-test/1</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/3</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/4</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/5</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/6</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/7</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/8</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/9</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/10</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/11</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/12</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/13</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/14</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/15</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/16</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/17</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/18</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/19</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/20</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/21</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/22</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/23</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/24</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/25</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/26</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/code-test/27</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/team-coding/</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://skilliant.net/mentors/</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://skilliant.net/compiler/</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://skilliant.net/donation/</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.4</priority>
     </url>
     <url>
         <loc>https://skilliant.net/for-users/</loc>
-        <lastmod>28.12.2022</lastmod>
+        <lastmod>02.01.2023</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.4</priority>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://skilliant.net/learning-plan/</loc>
+        <lastmod>02.01.2023</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
     </url>
 </urlset>
